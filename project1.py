@@ -1,4 +1,4 @@
-## Find the largest number,shortest number ,sem of the numbers in a list
+## Find the largest number,smallest number ,sem of the numbers in a list
 
 numbers = list(map(int,input("Enter any 5 numbers: ").split()))
 
