@@ -1,3 +1,6 @@
+## Simple notes app
+## This code allows the user to add notes,view saved notes
+
 while True:
   print("\nTo add a new note enter 1")
   print("To view the note enter 2")
