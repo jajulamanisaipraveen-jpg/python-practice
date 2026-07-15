@@ -1,4 +1,4 @@
-## THIs code helps to store the expenses,add sum of expenses
+## This code helps to store the expenses,add sum of expenses
 
 expenses={}
 while True:
