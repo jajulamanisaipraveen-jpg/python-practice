@@ -1,3 +1,5 @@
+## THIs code helps to store the expenses,add sum of expenses
+
 expenses={}
 while True:
   print("\n1.Add EXpenses"
